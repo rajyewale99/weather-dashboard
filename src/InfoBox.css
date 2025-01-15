@@ -1,0 +1,10 @@
+/* Center the whole InfoBox container on the page */
+.InfoBox{
+   text-align: center;      
+}
+
+/* Center content inside the card */
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
