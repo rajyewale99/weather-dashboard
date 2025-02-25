@@ -8,7 +8,7 @@ import InfoBox from './InfoBox';
 import WeatherApp from './WeatherApp';
 function App() {
   let handleclick = ()=>{
-    console.log("button was click");
+    console.log("Button was click");
   };
   return(
   <>
